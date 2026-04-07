@@ -1,0 +1,4 @@
+Nome: João Pietro
+Data: 07/04/2026
+Local: Senai - Palhoça
+Disciplina: Desenvolvimento de Sistemas - JavaScript
